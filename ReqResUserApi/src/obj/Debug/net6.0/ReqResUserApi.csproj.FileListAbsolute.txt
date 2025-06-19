@@ -1,0 +1,13 @@
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.AssemblyInfoInputs.cache
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.AssemblyInfo.cs
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.csproj.CoreCompileInputs.cache
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.csproj.AssemblyReference.cache
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\bin\Debug\net6.0\ReqResUserApi.deps.json
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\bin\Debug\net6.0\ReqResUserApi.dll
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\bin\Debug\net6.0\ReqResUserApi.pdb
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.dll
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\refint\ReqResUserApi.dll
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ReqResUserApi.pdb
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\obj\Debug\net6.0\ref\ReqResUserApi.dll
+D:\ReqResUserIntegration_FullSolution\ReqResUserApi\src\bin\Debug\net6.0\appsettings.json
