@@ -1,16 +1,11 @@
-using Microsoft.Extensions.Caching.Memory;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Http;
 using Microsoft.Extensions.Logging;
 using Polly;
 using ReqResUserApi.Clients;
 using ReqResUserApi.Configuration;
 using ReqResUserApi.Services;
 using System;
-using System.IO;
-using System.Net;
 using System.Threading.Tasks;
 namespace ReqResUserApi.ConsoleDemo
 {

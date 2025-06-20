@@ -1,4 +1,3 @@
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Options;
 using ReqResUserApi.Models;
 using System.Collections.Generic;
