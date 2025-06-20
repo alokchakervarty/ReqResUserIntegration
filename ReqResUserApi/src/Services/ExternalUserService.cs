@@ -50,18 +50,7 @@ namespace ReqResUserApi.Services
                     Email = dto.email,
                     FullName = $"{dto.first_name} {dto.last_name}"
                 };
-            });
-            //return await _cache.GetOrCreateAsync($"user_{userId}", async entry =>
-            //{
-            //    entry.AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(_expirationMinutes);
-            //    var dto = await _apiClient.GetUserByIdAsync(userId);
-            //    return new User
-            //    {
-            //        Id = dto.id,
-            //        Email = dto.email,
-            //        FullName = $"{dto.first_name} {dto.last_name}"
-            //    };
-            //});
+            });          
         }
 
         public async Task<IEnumerable<User>> GetAllUsersAsync()

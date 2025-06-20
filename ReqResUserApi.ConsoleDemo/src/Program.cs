@@ -23,18 +23,9 @@ namespace ReqResUserApi.ConsoleDemo
                 {
                     logging.ClearProviders(); // Clear default providers
                     logging.AddConsole(); // Add console logging provider
-                })
-                //.ConfigureAppConfiguration((context, config) =>
-                //{
-                //    var projectDir = Directory.GetCurrentDirectory();
-                //    var configPath = Path.Combine(projectDir, "appsettings.json");
-
-                //    config.AddJsonFile(configPath, optional: false, reloadOnChange: true);
-                //})
+                })               
                 .ConfigureServices((context, services) =>
                 {
-                    //var baseUrl = context.Configuration["ApiSettings:BaseUrl"];
-                    //services.AddSingleton(new ApiConfiguration { BaseUrl = baseUrl });
                     services.AddMemoryCache();
                     services.AddScoped<IExternalUserService, ExternalUserService>();
                     services.Configure<ApiConfiguration>(context.Configuration.GetSection("ApiSettings"));

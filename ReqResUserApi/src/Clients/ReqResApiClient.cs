@@ -13,13 +13,7 @@ namespace ReqResUserApi.Clients
     public class ReqResApiClient : IReqResApiClient
     {
         private readonly HttpClient _httpClient;
-        private readonly string _baseUrl;
-
-        //public ReqResApiClient(HttpClient httpClient, ApiConfiguration config)
-        //{
-        //    _httpClient = httpClient;
-        //    _baseUrl = config.BaseUrl.TrimEnd('/') + "/";
-        //}
+        private readonly string _baseUrl;        
         public ReqResApiClient(HttpClient httpClient, IOptions<ApiConfiguration> config)
         {
             _httpClient = httpClient;
