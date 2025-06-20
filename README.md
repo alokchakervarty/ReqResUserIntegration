@@ -65,10 +65,10 @@ ReqResUserIntegrationSolution/
 git clone https://github.com/alokchakervarty/ReqResUserIntegration.git
 ```OR
 Use UI to Clone the project And then click on sln file to open the project.
-
-2. **Build the solution:** ctrl + Shift + B
+2. **Right click ReqResUserApi.ConsoleDemo project and make it a StartUp Project.
+3. **Build the solution:** ctrl + Shift + B
 	
-3. **Run the application:** F5
+4. **Run the application:** F5
 
 
 ## 🧪 Run Unit Tests ctrl + R,A
