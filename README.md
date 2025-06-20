@@ -61,10 +61,10 @@ ReqResUserIntegrationSolution/
 
 1. **Clone the repo:**
 
-```bash
-git clone https://github.com/alokchakervarty/ReqResUserIntegration.git
-cd ReqResUserIntegrationSolution
 ```
+git clone https://github.com/alokchakervarty/ReqResUserIntegration.git
+```OR
+Use UI to Clone the project And then click on sln file to open the project.
 
 2. **Build the solution:** ctrl + Shift + B
 	
